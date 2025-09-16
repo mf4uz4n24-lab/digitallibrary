@@ -39,7 +39,7 @@ Berikut ini adalah koleksi yang dimiliki:
   <p>Isi konten halaman 1 di sini...</p>
 
   <br><br>
-  <a href="../index.html">⬅ Kembali ke Index</a>
+  <a href="../">⬅ Kembali ke Index</a>
 </body>
 </html>
 
