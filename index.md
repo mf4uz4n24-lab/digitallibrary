@@ -20,6 +20,5 @@ Berikut ini adalah koleksi yang dimiliki:
 
 
    ---
-   
-[halaman1](halaman1.html)
+<a href="WEB TI/halaman1.html">Halaman 1</a>|
 *Powered by GitHub Pages*
