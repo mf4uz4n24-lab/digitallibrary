@@ -20,5 +20,6 @@ Berikut ini adalah koleksi yang dimiliki:
 
 
    ---
-[halaman1.html]
+   
+[halaman1](halaman1.html)
 *Powered by GitHub Pages*
