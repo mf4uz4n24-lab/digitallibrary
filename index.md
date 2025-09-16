@@ -28,7 +28,7 @@ Berikut ini adalah koleksi yang dimiliki:
 <a href="WEB TI/halaman6.html">Halaman 6</a> |
 <a href="WEB TI/halaman7.html">Halaman 7</a>
 
-<br><br>
-<a href="../index.html">⬅ Kembali ke Index</a>
+<a href="../">⬅ Kembali ke Index</a>
+
 
 *Powered by GitHub Pages*
