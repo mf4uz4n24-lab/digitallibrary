@@ -27,9 +27,7 @@ Berikut ini adalah koleksi yang dimiliki:
 <a href="WEB TI/halaman5.html">Halaman 5</a> |
 <a href="WEB TI/halaman6.html">Halaman 6</a> |
 <a href="WEB TI/halaman7.html">Halaman 7</a>
-
-
-<a href="https://github.com/mf4uz4n24-lab/digitallibrary">Index</a>
+   <a href="https://github.com/mf4uz4n24-lab/digitallibrary">Index</a>
 
 
 
