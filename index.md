@@ -15,7 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Analisis Perancangan Sistem Informaasi](ebook/6.pdf) - Nur Aziz (2022)  
 7. [Peran Guru dan Orang Tua dalam Pembiasaan Makan Makanan Sehat pada Anak Usia Dini](ebook/7.pdf) - Kristi Nuraini (2023)  
 8. [Sistem Informasi Manajemen](ebook/8.pdf) - Ahmad Yusuf (2021)  
-9. [Pengaruh Gaya Hidup, Kualitas Produk, dan Promosi terhadap Keputusan Pembelian Produk Makanan Sehat Soyjoy](ebook/10.pdf) - Novita Sukmawati (2020)  
+9. [Pengaruh Gaya Hidup, Kualitas Produk, dan Promosi terhadap Keputusan Pembelian Produk Makanan Sehat Soyjoy](ebook/9.pdf) - Novita Sukmawati (2020)  
 10. [Beyond the Bookshelf](ebook/TUGAS RANGKUMAN VR M.Fauzan 124.pdf) - Muhammad Fauzan (2025)  
 
 
