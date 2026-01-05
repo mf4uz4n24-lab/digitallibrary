@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki:
 
 ## Koleksi
-1. .[LITERATURE REVIEW : HUBUNGAN KOORDINASI TERHADAP KETERAMPILAN MENGGIRING BOLA PADA PEMAIN SEPAK BOLA].(ebook/OjanAplikasi.pdf) - Dewi Suci (2021)
+1. .[LITERATURE REVIEW : HUBUNGAN KOORDINASI TERHADAP KETERAMPILAN MENGGIRING BOLA PADA PEMAIN SEPAK BOLA](ebook/OjanAplikasi.pdf) - Dewi Suci (2021)
 2. Contoh buku lain
 3. [Pelaksanaan Program Pemberian Makanan Sehat Anak Usia Dini : Studi Evaluasi Program CIPP](ebook/1.pdf) - Dea Ismi Yeni (2020)  
 2. [Literature Review: Daun Kelor (Moringa oleifera) sebagai Makanan Sehat Pelengkap Nutrisi 1000 Hari Pertama Kehidupan](ebook/2.pdf) - Fauziah Hanif (2022)  
